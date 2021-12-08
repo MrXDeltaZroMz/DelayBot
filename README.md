@@ -56,6 +56,6 @@ Simpel WhatsApp Bot
 
 #### Author / Creator : [`DcodeDenpa`](https://github.com/dcode-denpa/bitch-boot)
 
-#### Rekode Oleh : [`KurrXd`](https://youtube.com/c/Mr.XDeltaZroMz)
-saya
-saya
+#### Rekode Oleh : [`Mr.Tzy`](https://youtube.com/c/Mr.XDeltaZroMz)
+
+
